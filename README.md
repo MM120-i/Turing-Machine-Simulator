@@ -55,4 +55,5 @@ current_state input next_state write_direction
 - `next_state`: The next state to transition to.
 - `write_direction`: The direction to move the tape head (`R` for right, `L` for left).
 
-Inspiaration was taken from https://codereview.stackexchange.com/questions/19814/simple-turing-machine-simulator
+Inspiaration was taken from https://codereview.stackexchange.com/questions/19814/simple-turing-machine-simulator 
+Further modification were done by me. 
