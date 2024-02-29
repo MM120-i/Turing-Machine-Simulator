@@ -3,7 +3,7 @@
 #include <assert.h>
 #include <string.h>
 #include <stdbool.h>
-// #include <unistd.h>
+#include <unistd.h>
 #include "turing.h"
 #include "turingparser.h"
 
