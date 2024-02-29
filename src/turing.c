@@ -390,5 +390,3 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-
-// Inspiaration was taken from https://codereview.stackexchange.com/questions/19814/simple-turing-machine-simulator
