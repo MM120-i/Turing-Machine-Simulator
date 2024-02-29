@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "errors.h": "c",
+        "turing.h": "c",
+        "error.h": "c",
+        "stdbool.h": "c"
+    }
+}
